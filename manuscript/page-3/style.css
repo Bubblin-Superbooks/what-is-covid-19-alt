@@ -1,3 +1,6 @@
-body {
-    background-image: url(https://raw.githubusercontent.com/marvindanig/what-is-covid-19-alt/master/assets/images/3.jpg);
+.inner {
+    background-image: url(https://raw.githubusercontent.com/marvindanig/what-is-covid-19-alt/master/assets/images/3.png); 
+    background-size: 100% 100%;
+    height: 100vh;
+    width: 100vw;
 }

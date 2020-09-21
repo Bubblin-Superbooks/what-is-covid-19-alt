@@ -292,7 +292,7 @@ hr::before {
   height: calc(17 * (4vw * 1.5) + 4vw);
   max-height: calc(17 * (4vw * 1.5) + 4vw);
   break-after: right;
-  display:inline-block;
+  display: inline-block;
   /* background: aliceblue; */  /* enable to see the maximum staging area */
 }
 
